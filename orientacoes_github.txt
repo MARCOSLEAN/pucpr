@@ -1,0 +1,23 @@
+DICAS DE PROCEDIMENTOS NO GitHub
+
+1- Segue uma lista objetiva e profissional de boas práticas para não esquecer ao usar Git e GitHub:
+2- Sempre inicialize o repositório corretamente antes de começar a trabalhar (create repository ou git init).
+3- Configure um arquivo .gitignore adequado ao tipo de projeto antes do primeiro commit.
+4- Nunca versionar a pasta .venv, node_modules, arquivos temporários ou caches.
+5- Nunca subir arquivos com senhas, tokens, arquivos .env ou dados sensíveis.
+6- Fazer commits pequenos e frequentes, evitando acumular muitas alterações de uma vez.
+7- Escrever mensagens de commit claras e descritivas (exemplo: “Adiciona função de cálculo de média”).
+8- Conferir as alterações antes de confirmar o commit (review das mudanças).
+9- Manter o repositório organizado com estrutura de pastas coerente.
+10- Atualizar o repositório remoto com frequência (push) para evitar perda de trabalho.
+11- Sempre fazer pull antes de começar a trabalhar em equipe, para evitar conflitos.
+12- Criar branches para novas funcionalidades ou testes, evitando trabalhar direto na main.
+13- Nomear branches de forma clara (ex: feature/login-api, fix/erro-calculo).
+14- Resolver conflitos com atenção e testar o código após a resolução.
+15- Manter um README.md explicando o objetivo do projeto e como executá-lo.
+16- Versionar arquivos importantes de configuração, como requirements.txt ou Dockerfile.
+17- Testar o projeto após mudanças importantes antes de enviar para o GitHub.
+18- Manter consistência no padrão de código e organização.
+19- Evitar commits com mensagens genéricas como “update”, “teste” ou “mudança”.
+20- Garantir que o projeto funciona antes de publicar como portfólio público.
+21- Manter histórico limpo e organizado, pensando sempre que outras pessoas podem analisar seu repositório.
